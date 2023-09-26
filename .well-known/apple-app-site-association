@@ -1,0 +1,14 @@
+{
+  "applinks": {
+      "details": [
+           {
+            "appIDs": [ "N6XV3QX479.com.donortap.paymentterminal.dev" ],
+            "components": [
+                {
+                    "/": "*"
+                }
+            ]
+           }
+       ]
+   }
+}
